@@ -1,0 +1,56 @@
+body{
+    padding:0px;
+    margin:0px;
+    background-color:#ebebeb;
+}
+
+header{
+   background-color:#ebebeb;
+   text-align: center;
+}
+ 
+
+
+.nav-default .navbar-text{
+    color:#cbcbcb;
+
+}
+
+.navbar-default .navbar-text a:hover{
+    color:purple;
+}
+
+.carousel-item {
+    width:100%;
+    
+ padding-top: 0px;
+    padding-right:0px;
+    padding-top:5px;
+    padding-bottom: 5px;
+}
+
+p{
+    text-align: center;
+ }
+
+
+h5{
+    text-align: center;
+ }
+
+
+.text-muted{
+    text-align: center;
+ }
+
+.card{
+    padding-top: 0px;
+    padding-right:0px;
+    padding-left: 0px;
+    padding-bottom: 7px;
+}
+ footer{
+     background-color:#000000;
+     color:#cbcbcb;
+     text-align: center;
+ }
